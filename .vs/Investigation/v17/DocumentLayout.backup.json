@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Investment\\Investigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5E86BF-75D1-4D23-8702-2C4E28ED8D0F}|Investigation.WebUI\\Investigation.WebUI.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\projects\\investment\\investigation\\investigation.webui\\auth.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B5E86BF-75D1-4D23-8702-2C4E28ED8D0F}|Investigation.WebUI\\Investigation.WebUI.csproj|solutionrelative:investigation.webui\\auth.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.txt",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Investment\\Investigation\\Investigation.WebUI\\auth.txt",
+              "RelativeDocumentMoniker": "Investigation.WebUI\\auth.txt",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Investment\\Investigation\\Investigation.WebUI\\auth.txt",
+              "RelativeToolTip": "Investigation.WebUI\\auth.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-17T16:30:05.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
