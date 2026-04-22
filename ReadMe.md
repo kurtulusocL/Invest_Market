@@ -164,7 +164,8 @@ All sensitive configuration is externalized. No secrets exist in source code.
 
 ---
 
-## Author
+## Architecture Notes
 
-**Kurtuluş Öcal** — Senior .NET Backend Developer  
-[LinkedIn](https://linkedin.com/in/ocalkurtulus) · [GitHub](https://github.com/kurtulusocL)
+Generic repository pattern is currently implemented in the Investigation.Business layer rather than Investigation.DataAccess. In practice, the generic repository base and its concrete implementations should reside in the data access layer alongside the DbContext. The interface abstractions are correctly separated, but the generic infrastructure belongs closer to the persistence layer. This will be refactored in the next iteration.
+
+---
